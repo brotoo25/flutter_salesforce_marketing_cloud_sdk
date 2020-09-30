@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_salesforce_marketing_cloud.iml" filepath="$PROJECT_DIR$/flutter_salesforce_marketing_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_salesforce_marketing_cloud_android.iml" filepath="$PROJECT_DIR$/android/flutter_salesforce_marketing_cloud_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/flutter_salesforce_marketing_cloud_example_android.iml" filepath="$PROJECT_DIR$/example/android/flutter_salesforce_marketing_cloud_example_android.iml" />
+    </modules>
+  </component>
+</project>
