@@ -1,8 +1,8 @@
 name: flutter_salesforce_marketing_cloud
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: Abraao Lima
+homepage: https://github.com/brotoo25/flutter_salesforce_marketing_cloud_sdk
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
