@@ -27,7 +27,9 @@ class _MyAppState extends State<MyApp> {
     String platformVersion;
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
-      platformVersion = await FlutterSalesforceMarketingCloud.platformVersion;
+      await FlutterSalesforceMarketingCloud.init(
+          "test1", "test2", "test3", "test4");
+      print("Result");
     } on PlatformException {
       platformVersion = 'Failed to get platform version.';
     }

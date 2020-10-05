@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_salesforce_marketing_cloud (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_salesforce_marketing_cloud (from `.symlinks/plugins/flutter_salesforce_marketing_cloud/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_salesforce_marketing_cloud:
+    :path: ".symlinks/plugins/flutter_salesforce_marketing_cloud/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_salesforce_marketing_cloud: 9cdc28275e4775bc5021cc237545933c40aa205d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
