@@ -9,6 +9,16 @@ public class SwiftFlutterSalesforceMarketingCloudPlugin: NSObject, FlutterPlugin
   }
 
   public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
+    switch call.method {
+      case "init":
+        print("Brotinhooooooooo")
+        result(FlutterMethodNotImplemented)
+        break
+      default:
+        result(FlutterMethodNotImplemented)
+    }
+
+    print("Broto2222")
     result("iOS " + UIDevice.current.systemVersion)
   }
 }

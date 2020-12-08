@@ -2,10 +2,16 @@ PODS:
   - Flutter (1.0.0)
   - flutter_salesforce_marketing_cloud (0.0.1):
     - Flutter
+    - MarketingCloudSDK (~> 7.2)
+  - MarketingCloudSDK (7.3.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - flutter_salesforce_marketing_cloud (from `.symlinks/plugins/flutter_salesforce_marketing_cloud/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MarketingCloudSDK
 
 EXTERNAL SOURCES:
   Flutter:
@@ -15,8 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_salesforce_marketing_cloud: 9cdc28275e4775bc5021cc237545933c40aa205d
+  flutter_salesforce_marketing_cloud: 821364869bfd91a0c18c72f3f6abb8c1dadd3505
+  MarketingCloudSDK: 7273000b7480fa797dcd9e4924d1279095539601
 
-PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+PODFILE CHECKSUM: ddd930128a51b4de5dcae538fb05b7669e161fdd
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.0
